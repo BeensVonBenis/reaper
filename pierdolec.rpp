@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.81/win64" 1719490496
+<REAPER_PROJECT 0.1 "6.81/win64" 1719517310
   <NOTES 0 2
   >
   RIPPLE 0
@@ -17,8 +17,8 @@
   VIDEO_CONFIG 0 0 256
   PANMODE 3
   PANLAWFLAGS 3
-  CURSOR 396
-  ZOOM 26.82670986173216 9771 0
+  CURSOR 536
+  ZOOM 145.87739448985786 77672 0
   VZOOMEX 5.58928585 0
   USE_REC_CFG 0
   RECMODE 1
@@ -61,8 +61,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 32 32
   PLAYRATE 1 0 0.25 4
-  SELECTION 0 502.63834686783542
-  SELECTION2 0 502.63834686783542
+  SELECTION 532.5 533
+  SELECTION2 532.5 533
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -417,7 +417,7 @@
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1.1 0.01 0.388775 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       SEL 0
       IGUID {2FF0AF56-0135-4C54-A03A-CA7C3CEF8E79}
@@ -433,13 +433,764 @@
       >
     >
     <ITEM
-      POSITION 375.11122503899361
+      POSITION 375.5
       SNAPOFFS 0
-      LENGTH 73.83494331065759
+      LENGTH 33.5
       LOOP 1
       ALLTAKES 0
-      FADEIN 1.1 0.01 0.388775 1 1 0 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 3 1.75662 0 3 0 1 1
+      MUTE 0 0
+      SEL 0
+      IGUID {80D58E22-7D1A-4C77-BD36-EB1E896499E4}
+      IID 195
+      NAME "GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 45.3288222632203
+      PLAYRATE 0.974 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DC661052-8CD5-48AF-8613-E6DEAC1F2A9E}
+      <SOURCE WAVE
+        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 409
+      SNAPOFFS 0
+      LENGTH 74.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.131941 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {67E22D76-7969-4B38-9907-07A4724060B4}
+      IID 215
+      NAME Luis-Fonsi-Ft.-Daddy-Yankee-Despacito.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 11
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DD2B8CBD-912A-432A-A95E-24C50569C75B}
+      <SOURCE MP3
+        FILE "C:\Users\Piotrek\Downloads\Luis-Fonsi-Ft.-Daddy-Yankee-Despacito.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 483.36805871864402
+      SNAPOFFS 0
+      LENGTH 13.17881170569137
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.131941 1 1 0 0
+      FADEOUT 1.1 0.01 0.451562 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A0C92628-98ED-4783-894F-BBBE10F9B51B}
+      IID 195
+      NAME "GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 93.20508272596507
+      PLAYRATE 0.974 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {391CD086-6290-4FE0-A23B-F5D7A31D2AB5}
+      <SOURCE WAVE
+        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 496.0953086013464
+      SNAPOFFS 0
+      LENGTH 10.9046913986536
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.451562 1 1 0 0
       FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7E3C11D7-06E1-4CDA-98C2-2AAC08EA6601}
+      IID 215
+      NAME Luis-Fonsi-Ft.-Daddy-Yankee-Despacito.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 85.18559165365167
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {7882B1FD-5FE8-4775-B5F7-505A44A5FAF8}
+      <SOURCE MP3
+        FILE "C:\Users\Piotrek\Downloads\Luis-Fonsi-Ft.-Daddy-Yankee-Despacito.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 507
+      SNAPOFFS 0
+      LENGTH 0.29224691326175
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.2481 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {6F548447-188F-431D-AA70-3584D80825DB}
+      IID 215
+      NAME Luis-Fonsi-Ft.-Daddy-Yankee-Despacito.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 96.09028305230527
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6B5B020E-AB81-4687-8E3F-48C7EF0BCA09}
+      <SOURCE MP3
+        FILE "C:\Users\Piotrek\Downloads\Luis-Fonsi-Ft.-Daddy-Yankee-Despacito.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 507.04414647857089
+      SNAPOFFS 0
+      LENGTH 8.95585352142911
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.2481 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BB21B927-C532-4189-B1AF-74510FC025CD}
+      IID 195
+      NAME "GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 106.04124532730847
+      PLAYRATE 0.974 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {64B18B6F-C59D-4DAA-9AD0-336A6A2C4AB6}
+      <SOURCE WAVE
+        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 516
+      SNAPOFFS 0
+      LENGTH 12
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C0642F6F-AC7B-4C30-AA6B-D06C26FFDC28}
+      IID 195
+      NAME "GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 114.76424665718042
+      PLAYRATE 0.974 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DD2A42B1-1BA2-491E-A4B9-611130948B18}
+      <SOURCE WAVE
+        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 528
+      SNAPOFFS 0
+      LENGTH 3.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {C897F4FC-1C41-42AA-B124-5650483D88DC}
+      IID 195
+      NAME "GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 126.45224665718042
+      PLAYRATE 0.974 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B867A274-D517-4E82-9F44-16EC52EA5DDA}
+      <SOURCE WAVE
+        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 531.94578887190096
+      SNAPOFFS 0
+      LENGTH 0.05421112809904
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {185E0475-A0A2-4609-9D4E-497578BD52B6}
+      IID 195
+      NAME "GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 129.86124665718043
+      PLAYRATE 0.974 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {32315E0E-2682-41BE-AEBE-DD1F886D717C}
+      <SOURCE WAVE
+        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 532
+      SNAPOFFS 0
+      LENGTH 0.94578887190096
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.310085 1 1 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {C4741CEB-0B44-4481-A9A1-59597C27D93A}
+      IID 195
+      NAME "GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 129.9140482959489
+      PLAYRATE 0.974 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B5315941-E311-49E0-95B3-1FC1113F9951}
+      <SOURCE WAVE
+        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 532
+      SNAPOFFS 0
+      LENGTH 0.94578887190096
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.310085 1 1 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {36640365-622B-4A26-ACC5-92419C63B968}
+      IID 195
+      NAME "GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 129.9140482959489
+      PLAYRATE 0.974 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D0F218B2-BC72-4AC0-B5A9-C7D229A8C64A}
+      <SOURCE WAVE
+        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 532.63570356585399
+      SNAPOFFS 0
+      LENGTH 0.94578887190096
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.310085 1 1 0 0
+      FADEOUT 1.1 0.01 0.320554 1 1 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {21361ABE-ED12-4934-8D73-5E35EBE37658}
+      IID 195
+      NAME "GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 129.9140482959489
+      PLAYRATE 0.974 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {568B5451-A9C3-464C-9ACF-A8E372EA7E20}
+      <SOURCE WAVE
+        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 532.63570356590208
+      SNAPOFFS 0
+      LENGTH 0.94578887190096
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.310085 1 1 0 0
+      FADEOUT 1.1 0.01 0.320554 1 1 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {604C89ED-F4B7-4597-9B68-824F7D4BDBB7}
+      IID 195
+      NAME "GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 129.9140482959489
+      PLAYRATE 0.974 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0D80B648-0F8D-472C-AF9F-C646AC3CBF27}
+      <SOURCE WAVE
+        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 533.26093875721563
+      SNAPOFFS 0
+      LENGTH 0.94578887190096
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.320554 1 1 0 0
+      FADEOUT 1.1 0.01 0.266343 1 1 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {3BC7B711-DCBD-4685-B208-FBAE8A9EA8CE}
+      IID 195
+      NAME "GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 129.9140482959489
+      PLAYRATE 0.974 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D2500EC4-ED40-44E1-9336-297B2F486B2A}
+      <SOURCE WAVE
+        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 533.26093875724882
+      SNAPOFFS 0
+      LENGTH 0.94578887190096
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.320554 1 1 0 0
+      FADEOUT 1.1 0.01 0.266343 1 1 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {23CC86ED-0991-448D-8F58-5D07CE8561D9}
+      IID 195
+      NAME "GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 129.9140482959489
+      PLAYRATE 0.974 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {10A9E213-0D70-4040-86CC-3A9A37E0B57F}
+      <SOURCE WAVE
+        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 533.94038507677578
+      SNAPOFFS 0
+      LENGTH 0.94578887190096
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.266343 1 1 0 0
+      FADEOUT 1.1 0.01 0.310085 1 1 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {5FF38059-885C-4536-9F8F-B643FCD54F68}
+      IID 195
+      NAME "GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 129.9140482959489
+      PLAYRATE 0.974 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A646DD47-77F0-4C67-8E0F-0C139442E600}
+      <SOURCE WAVE
+        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 533.94038507679943
+      SNAPOFFS 0
+      LENGTH 0.94578887190096
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.266343 1 1 0 0
+      FADEOUT 1.1 0.01 0.310085 1 1 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {D76F9B20-25CA-446F-B0F1-F6E8D46DB97A}
+      IID 195
+      NAME "GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 129.9140482959489
+      PLAYRATE 0.974 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {47C68636-E726-4256-A680-4E9AD47DA003}
+      <SOURCE WAVE
+        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 534.57608864267786
+      SNAPOFFS 0
+      LENGTH 0.94578887190096
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.310085 1 1 0 0
+      FADEOUT 1.1 0.01 0.320554 1 1 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {569F3CCF-0AC0-494B-9AB0-A7BF712606AD}
+      IID 195
+      NAME "GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 129.9140482959489
+      PLAYRATE 0.974 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2EC65539-187B-4D77-85CB-5B7F702F533A}
+      <SOURCE WAVE
+        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 534.57608864270151
+      SNAPOFFS 0
+      LENGTH 0.94578887190096
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.310085 1 1 0 0
+      FADEOUT 1.1 0.01 0.320554 1 1 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {4A4F38A7-C035-4808-A8A6-F119696580DE}
+      IID 195
+      NAME "GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 129.9140482959489
+      PLAYRATE 0.974 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B222EE01-C800-4A37-ABF2-8B83749F084A}
+      <SOURCE WAVE
+        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 535.20132383399141
+      SNAPOFFS 0
+      LENGTH 0.94578887190096
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.320554 1 1 0 0
+      FADEOUT 1.1 0.01 0.245094 1 1 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {CCE1884E-BA95-4444-9450-B2A4A258B418}
+      IID 195
+      NAME "GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 129.9140482959489
+      PLAYRATE 0.974 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {261F439D-AB2C-456A-BFF7-D7BA31B2053F}
+      <SOURCE WAVE
+        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 535.20132383401506
+      SNAPOFFS 0
+      LENGTH 0.94578887190096
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.320554 1 1 0 0
+      FADEOUT 1.1 0.01 0.245094 1 1 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {94231E2A-82AC-405D-8143-0120736E24C9}
+      IID 195
+      NAME "GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 129.9140482959489
+      PLAYRATE 0.974 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D6646ED9-C9B2-4985-B689-6A4607A4EB51}
+      <SOURCE WAVE
+        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 535.90201844503736
+      SNAPOFFS 0
+      LENGTH 0.94578887190096
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.245094 1 1 0 0
+      FADEOUT 1.1 0.01 0.310085 1 1 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {9BE921D0-EC42-43DA-A88E-7B71902E60D3}
+      IID 195
+      NAME "GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 129.9140482959489
+      PLAYRATE 0.974 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {22E1D72A-546E-4861-B360-E9CCD634110F}
+      <SOURCE WAVE
+        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 535.90201844507828
+      SNAPOFFS 0
+      LENGTH 0.94578887190096
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.245094 1 1 0 0
+      FADEOUT 1.1 0.01 0.310085 1 1 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {E14AEA49-89F3-4403-84D7-986A7D14B81E}
+      IID 195
+      NAME "GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 129.9140482959489
+      PLAYRATE 0.974 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EA885822-3967-4CAB-A788-D176D896ACEA}
+      <SOURCE WAVE
+        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 536.53772201093943
+      SNAPOFFS 0
+      LENGTH 0.94578887190096
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.310085 1 1 0 0
+      FADEOUT 1.1 0.01 0.320554 1 1 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {7B00389C-94DF-4FC5-9A32-6073C726F1FF}
+      IID 195
+      NAME "GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 129.9140482959489
+      PLAYRATE 0.974 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {E6FE60BF-479D-41ED-ABF9-CED70DA0FE9C}
+      <SOURCE WAVE
+        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 536.53772201098036
+      SNAPOFFS 0
+      LENGTH 0.94578887190096
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.310085 1 1 0 0
+      FADEOUT 1.1 0.01 0.320554 1 1 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {5788088C-7A51-4813-BFA3-49E86BD888BE}
+      IID 195
+      NAME "GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 129.9140482959489
+      PLAYRATE 0.974 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {6C115AB4-2EAF-45C1-9FF9-71A31E275316}
+      <SOURCE WAVE
+        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 537.16295720225298
+      SNAPOFFS 0
+      LENGTH 0.94578887190096
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.320554 1 1 0 0
+      FADEOUT 1.1 0.01 0.266343 1 1 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {31CD737E-39B3-4F5B-86C7-E0F0633835BE}
+      IID 195
+      NAME "GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 129.9140482959489
+      PLAYRATE 0.974 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {F7909917-6F7E-409D-BEA1-660F675536C3}
+      <SOURCE WAVE
+        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 537.16295720229391
+      SNAPOFFS 0
+      LENGTH 0.94578887190096
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.320554 1 1 0 0
+      FADEOUT 1.1 0.01 0.266343 1 1 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {7235189D-94DA-487A-BE14-2ECEB3A59030}
+      IID 195
+      NAME "GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 129.9140482959489
+      PLAYRATE 0.974 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {C1D93307-FF42-4854-8C8C-AA24F0A706E8}
+      <SOURCE WAVE
+        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 537.84240352183679
+      SNAPOFFS 0
+      LENGTH 0.94578887190096
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.266343 1 1 0 0
+      FADEOUT 1.1 0.01 0.310085 1 1 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {6EFE9155-FF6F-480E-B7A1-DBEB1C1F566C}
+      IID 195
+      NAME "GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 129.9140482959489
+      PLAYRATE 0.974 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9982E2E0-6581-4EBD-8918-936304852772}
+      <SOURCE WAVE
+        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 537.84240352187771
+      SNAPOFFS 0
+      LENGTH 0.94578887190096
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.266343 1 1 0 0
+      FADEOUT 1.1 0.01 0.310085 1 1 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {6DA758CD-4848-4276-9DFE-B648CA1155C0}
+      IID 195
+      NAME "GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 129.9140482959489
+      PLAYRATE 0.974 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9045686B-E7E3-4A0A-A45A-7B1ADDF03BBE}
+      <SOURCE WAVE
+        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 538.47810708773886
+      SNAPOFFS 0
+      LENGTH 0.94578887190096
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.310085 1 1 0 0
+      FADEOUT 1.1 0.01 0.320554 1 1 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {1A0106F6-4794-4578-AD85-6D9CA3C4F3BD}
+      IID 195
+      NAME "GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 129.9140482959489
+      PLAYRATE 0.974 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {99C04839-7820-4B26-9FA5-135A407E5531}
+      <SOURCE WAVE
+        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 538.47810708777979
+      SNAPOFFS 0
+      LENGTH 0.94578887190096
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.310085 1 1 0 0
+      FADEOUT 1.1 0.01 0.320554 1 1 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {5D4BD15E-3C67-4B70-9458-763CB6919052}
+      IID 195
+      NAME "GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 129.9140482959489
+      PLAYRATE 0.974 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {FB1D6C63-6A6D-49F5-8651-4D29A8239D56}
+      <SOURCE WAVE
+        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 539.10334227905241
+      SNAPOFFS 0
+      LENGTH 0.94578887190096
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.320554 1 1 0 0
+      FADEOUT 1.1 0.01 0.625235 1 1 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {D29C8BDE-2E28-4E8C-88F0-1FEA508BD5A2}
+      IID 195
+      NAME "GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 129.9140482959489
+      PLAYRATE 0.974 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DD5C378A-1555-4406-891C-6D55227584D7}
+      <SOURCE WAVE
+        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 539.10334227909334
+      SNAPOFFS 0
+      LENGTH 0.94578887190096
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.320554 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 1
+      IGUID {D68E2D5F-12D7-4D0E-9584-1A4826767285}
+      IID 195
+      NAME "GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 129.9140482959489
+      PLAYRATE 0.974 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {096C09E4-C551-4FA2-94B1-99F363CF7C2A}
+      <SOURCE WAVE
+        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      >
+    >
+  >
+  <TRACK {B1FEA8FE-1356-423A-9774-41BB75165CB4}
+    NAME "01 - Bad Piggies Theme"
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 0 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {B1FEA8FE-1356-423A-9774-41BB75165CB4}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 375.11122503899361
+      SNAPOFFS 0
+      LENGTH 65.38877496100639
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.712944 0 1 0 0 0
+      FADEOUT 5.1 2.019096 0 5.1 0 0 0
       MUTE 0 0
       SEL 0
       IGUID {0BDDB5C6-6C26-4583-BD50-EEFC73C62686}
@@ -454,9 +1205,31 @@
         FILE "C:\Users\Piotrek\Downloads\flight_of_the_bumblebee_2.mp3" 1
       >
     >
+    <ITEM
+      POSITION 533.5
+      SNAPOFFS 0
+      LENGTH 26.6769281590249
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {29114FEA-2ACE-4913-B9F7-98BE65C0CCAD}
+      IID 195
+      NAME "GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 130.83524665718042
+      PLAYRATE 0.974 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A680E1D8-601A-4A4E-9A6E-853787396C97}
+      <SOURCE WAVE
+        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      >
+    >
   >
-  <TRACK {B1FEA8FE-1356-423A-9774-41BB75165CB4}
-    NAME "01 - Bad Piggies Theme"
+  <TRACK {A4BCFF05-3707-488C-98C1-5B3DAF60D408}
+    NAME flight_of_the_bumblebee_2
     PEAKCOL 16576
     BEAT -1
     AUTOMODE 0
@@ -475,99 +1248,52 @@
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
-    TRACKID {B1FEA8FE-1356-423A-9774-41BB75165CB4}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 356
-      SNAPOFFS 0
-      LENGTH 146.63834686783542
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {2F6D4C8E-436B-4C4C-8AE8-451A571C3992}
-      IID 168
-      NAME "Funiculi Funicula.mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 31.98117396549782
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {31AAC9EC-08C7-4667-B213-B5729F40BCF8}
-      <SOURCE MP3
-        FILE "Media\Funiculi Funicula.mp3" 1
-      >
-    >
-  >
-  <TRACK {A4BCFF05-3707-488C-98C1-5B3DAF60D408}
-    NAME flight_of_the_bumblebee_2
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    PANLAWFLAGS 3
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 1 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    SEL 1
-    REC 0 0 1 0 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
     TRACKID {A4BCFF05-3707-488C-98C1-5B3DAF60D408}
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 299.92101686744866
+      POSITION 483
       SNAPOFFS 0
-      LENGTH 0.07898313255134
+      LENGTH 15.5
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {EEB3B9C6-B3A2-46D6-A629-B56D39D3053A}
+      IGUID {717F805E-C7A3-4445-B301-A6BB7134DC4A}
       IID 195
       NAME "GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
       VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
+      SOFFS 77.95782226322029
+      PLAYRATE 0.974 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {12B9AF7A-5F57-4316-8B17-122306393979}
+      GUID {8BD31A2E-F8F8-4A39-A2F4-7532FC45B66F}
       <SOURCE WAVE
         FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
       >
     >
     <ITEM
-      POSITION 357.39984057622644
+      POSITION 507.5
       SNAPOFFS 0
-      LENGTH 28.23
+      LENGTH 185.12459503443301
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {D3D67DB5-1C38-4094-8A37-70E6FE1D9167}
-      IID 8
-      NAME "01 - Bad Piggies Theme.mp3"
+      IGUID {80CD00AE-84A7-4FC6-88D7-221EC3A5915F}
+      IID 215
+      NAME Luis-Fonsi-Ft.-Daddy-Yankee-Despacito.mp3
       VOLPAN 1 0 1 -1
-      SOFFS 4.5
+      SOFFS 96.38252996556702
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {B3188730-7893-47EF-8D1C-9E2BFE9548B9}
+      GUID {34B7349E-9867-4273-B147-57E688BE9666}
       <SOURCE MP3
-        FILE "Media\01 - Bad Piggies Theme.mp3" 1
+        FILE "C:\Users\Piotrek\Downloads\Luis-Fonsi-Ft.-Daddy-Yankee-Despacito.mp3" 1
       >
     >
   >
@@ -595,51 +1321,6 @@
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
-    <ITEM
-      POSITION 299.33158842158497
-      SNAPOFFS 0
-      LENGTH 25.16841157841503
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {D5E25295-838A-4CD3-ABA3-11DCE2F72A11}
-      IID 12
-      NAME "GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered).webm"
-      VOLPAN 1 0 1 -1
-      SOFFS 32.77
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {2B68A89D-7F2A-4EFF-AD96-C931A719E7D8}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered).webm"
-      >
-    >
-    <ITEM
-      POSITION 375
-      SNAPOFFS 0
-      LENGTH 114.46586490847056
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 64.989508 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {80D58E22-7D1A-4C77-BD36-EB1E896499E4}
-      IID 195
-      NAME "GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 45.3288222632203
-      PLAYRATE 0.974 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {DC661052-8CD5-48AF-8613-E6DEAC1F2A9E}
-      <SOURCE WAVE
-        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
-      >
-    >
   >
   <TRACK {406D5108-50CF-4EB3-878B-8B2BAFAB076D}
     NAME ""
@@ -654,7 +1335,7 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    SEL 0
+    SEL 1
     REC 0 0 1 0 0 0 0 0
     VU 2
     TRACKHEIGHT 0 0 0 0 0 0
@@ -734,6 +1415,29 @@
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
+    <ITEM
+      POSITION 296
+      SNAPOFFS 0
+      LENGTH 25.16841157841503
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D5E25295-838A-4CD3-ABA3-11DCE2F72A11}
+      IID 12
+      NAME "GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered).webm"
+      VOLPAN 1 0 1 -1
+      SOFFS 32.77
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2B68A89D-7F2A-4EFF-AD96-C931A719E7D8}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered).webm"
+      >
+    >
     <ITEM
       POSITION 321.5
       SNAPOFFS 0
@@ -844,6 +1548,74 @@
       GUID {EC203D9F-BBAB-4591-9741-5DF48C95F139}
       <SOURCE MP3
         FILE "C:\Users\Piotrek\Downloads\flight_of_the_bumblebee_2.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 382
+      SNAPOFFS 0
+      LENGTH 28.23
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D3D67DB5-1C38-4094-8A37-70E6FE1D9167}
+      IID 8
+      NAME "01 - Bad Piggies Theme.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 4.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {B3188730-7893-47EF-8D1C-9E2BFE9548B9}
+      <SOURCE MP3
+        FILE "Media\01 - Bad Piggies Theme.mp3" 1
+      >
+    >
+  >
+  <TRACK {647C5E13-88CB-4537-9C55-6D2E092DC027}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {647C5E13-88CB-4537-9C55-6D2E092DC027}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 355
+      SNAPOFFS 0
+      LENGTH 146.63834686783542
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2F6D4C8E-436B-4C4C-8AE8-451A571C3992}
+      IID 168
+      NAME "Funiculi Funicula.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 31.98117396549782
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {31AAC9EC-08C7-4667-B213-B5729F40BCF8}
+      <SOURCE MP3
+        FILE "Media\Funiculi Funicula.mp3" 1
       >
     >
   >
