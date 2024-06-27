@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "7.16/win64" 1718827510
+<REAPER_PROJECT 0.1 "6.81/win64" 1719490496
   <NOTES 0 2
   >
   RIPPLE 0
@@ -7,7 +7,6 @@
   ENVATTACH 3
   POOLEDENVATTACH 0
   MIXERUIFLAGS 11 48
-  ENVFADESZ10 40
   PEAKGAIN 1
   FEEDBACK 0
   PANLAW 1
@@ -18,9 +17,9 @@
   VIDEO_CONFIG 0 0 256
   PANMODE 3
   PANLAWFLAGS 3
-  CURSOR 393
-  ZOOM 41.76333353737984 16053 0
-  VZOOMEX 5.59786844 0
+  CURSOR 396
+  ZOOM 26.82670986173216 9771 0
+  VZOOMEX 5.58928585 0
   USE_REC_CFG 0
   RECMODE 1
   SMPTESYNC 0 30 100 40 1000 300 0 0 1 0 0
@@ -60,15 +59,15 @@
     MULT 1
   >
   GLOBAL_AUTO -1
-  TEMPO 120 16 16
+  TEMPO 120 32 32
   PLAYRATE 1 0 0.25 4
-  SELECTION 326 326
-  SELECTION2 326 326
+  SELECTION 0 502.63834686783542
+  SELECTION2 0 502.63834686783542
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
   MASTERMUTESOLO 0
-  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0 0
+  MASTERTRACKVIEW 0 0.6667 0.5 0.5 0 0 0 0 0 0 0 0 0
   MASTERHWOUT 0 0 1 0 0 0 0 -1
   MASTER_NCH 2 2
   MASTER_VOLUME 1 0 -1 -1 1
@@ -107,11 +106,10 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FIXEDLANES 9 0 0 0
     SEL 0
     REC 0 1024 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -139,7 +137,7 @@
       GUID {CE3DD004-BA5D-463F-81E8-C5C9F686BB99}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "C:\Users\tkadmin\Downloads\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered).webm"
+        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered).webm"
       >
     >
     <ITEM
@@ -162,7 +160,7 @@
       GUID {26982545-EE94-4671-B3BE-5FA8AA72F0ED}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "C:\Users\tkadmin\Downloads\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered).webm"
+        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered).webm"
       >
     >
     <ITEM
@@ -185,7 +183,7 @@
       GUID {41F9313E-4122-4FB6-A2F2-CFFDA884D488}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "C:\Users\tkadmin\Downloads\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered).webm"
+        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered).webm"
       >
     >
     <ITEM
@@ -208,7 +206,7 @@
       GUID {F92E0C92-39D1-4BD0-A94B-D678CCF5F72D}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "C:\Users\tkadmin\Downloads\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered).webm"
+        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered).webm"
       >
     >
     <ITEM
@@ -231,7 +229,7 @@
       GUID {43ADDED0-F63B-4690-A16E-592C29687520}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "C:\Users\tkadmin\Downloads\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered).webm"
+        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered).webm"
       >
     >
     <ITEM
@@ -254,7 +252,7 @@
       GUID {4CB7EDEC-37C4-45D5-9B62-C2891750E742}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "C:\Users\tkadmin\Downloads\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered).webm"
+        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered).webm"
       >
     >
     <ITEM
@@ -264,7 +262,7 @@
       LOOP 1
       ALLTAKES 0
       FADEIN 1.1 0.01 0.13 1 1 0 0
-      FADEOUT 1.1 0.01 0.2997621139863 1 1 0 0
+      FADEOUT 1.1 0.01 0.299762 1 1 0 0
       MUTE 0 0
       SEL 0
       IGUID {E083C493-739D-43F9-A981-CB66E9F32A13}
@@ -276,16 +274,16 @@
       CHANMODE 0
       GUID {6AD78388-EE9B-46CD-B204-514A594D5F7A}
       <SOURCE MP3
-        FILE "C:\Users\tkadmin\Downloads\01 - Bad Piggies Theme.mp3" 1
+        FILE "Media\01 - Bad Piggies Theme.mp3" 1
       >
     >
     <ITEM
-      POSITION 198.7002378860137
+      POSITION 198.70023788601372
       SNAPOFFS 0
-      LENGTH 77.7997621139863
+      LENGTH 77.79976211398628
       LOOP 1
       ALLTAKES 0
-      FADEIN 1.1 0.01 0.2997621139863 1 1 0 0
+      FADEIN 1.1 0.01 0.299762 1 1 0 0
       FADEOUT 1.1 0.01 1 1 1 0 0
       MUTE 0 0
       SEL 0
@@ -299,17 +297,17 @@
       GUID {58EF9290-E356-4C48-B4BF-9969BEDF1F55}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "C:\Users\tkadmin\Downloads\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered).webm"
+        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered).webm"
       >
     >
     <ITEM
       POSITION 275.5
       SNAPOFFS 0
-      LENGTH 26.5
+      LENGTH 25.8777326961827
       LOOP 1
       ALLTAKES 0
       FADEIN 1.1 0.01 1 1 1 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.835473 1 1 0 0
       MUTE 0 0
       SEL 0
       IGUID {4457C32C-C06C-4ED4-AF64-F22225FD8D01}
@@ -321,17 +319,39 @@
       CHANMODE 0
       GUID {F0AC9A0D-CC75-47F9-B586-292F8BC1AAB9}
       <SOURCE MP3
-        FILE "C:\Users\tkadmin\Downloads\01 - Bad Piggies Theme.mp3" 1
+        FILE "Media\01 - Bad Piggies Theme.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 300.54225961943638
+      SNAPOFFS 0
+      LENGTH 27.45774038056362
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.835473 1 1 0 0
+      FADEOUT 1.1 0.01 1.795257 1 1 0.991154 0.991154
+      MUTE 0 0
+      SEL 0
+      IGUID {0FBBF27D-6EFD-48CB-97FA-C2699EEFA01F}
+      IID 195
+      NAME "GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0.07898313255134
+      PLAYRATE 0.974 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BF2E192D-A114-4E38-A700-58872BB4DD4D}
+      <SOURCE WAVE
+        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
       >
     >
     <ITEM
       POSITION 302
       SNAPOFFS 0
-      LENGTH 2
+      LENGTH 0.05572940132464
       LOOP 1
       ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1.1 0.01 0.43311788114113 1 1 0 0
+      FADEIN 1 0 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
       MUTE 0 0
       SEL 0
       IGUID {4EBF7A1D-1676-41D5-BEF1-8F77EFC77C73}
@@ -343,359 +363,95 @@
       CHANMODE 0
       GUID {FF175C80-3FDC-4F50-94D8-8DEC7B5F4B87}
       <SOURCE MP3
-        FILE "C:\Users\tkadmin\Downloads\01 - Bad Piggies Theme.mp3" 1
+        FILE "Media\01 - Bad Piggies Theme.mp3" 1
       >
     >
     <ITEM
-      POSITION 303.56688211885887
+      POSITION 326.20474314977969
       SNAPOFFS 0
-      LENGTH 2
+      LENGTH 31.38662938316929
       LOOP 1
       ALLTAKES 0
-      FADEIN 1.1 0.01 0.43311788114113 1 1 0 0
-      FADEOUT 1.1 0.01 0.42022449525626 1 1 0 0
+      FADEIN 1.1 0.01 1.795257 1 1 0.991154 0.991154
+      FADEOUT 1.1 0.01 1.091373 1 1 0 0
       MUTE 0 0
       SEL 0
-      IGUID {4B56FA22-7A34-49FE-8C95-0460D886F56F}
-      IID 8
-      NAME "01 - Bad Piggies Theme.mp3"
+      IGUID {78F94E2B-B5A7-448E-95B0-53D16AB713CF}
+      IID 168
+      NAME "Funiculi Funicula.mp3"
       VOLPAN 1 0 1 -1
-      SOFFS 123.36
+      SOFFS 2.11136455142201
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {4176CD31-28E3-48F9-A1AD-DA0146155B0F}
+      GUID {D4F45436-3AFD-4B6D-92D5-F5495418224F}
       <SOURCE MP3
-        FILE "C:\Users\tkadmin\Downloads\01 - Bad Piggies Theme.mp3" 1
+        FILE "Media\Funiculi Funicula.mp3" 1
       >
     >
     <ITEM
-      POSITION 305.14665762360261
+      POSITION 356.5
       SNAPOFFS 0
-      LENGTH 2
+      LENGTH 6
       LOOP 1
       ALLTAKES 0
-      FADEIN 1.1 0.01 0.42022449525626 1 1 0 0
-      FADEOUT 1.1 0.01 0.43311788118444 1 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {70BAB328-F0ED-423B-9D7B-483531CE2ECB}
-      IID 8
-      NAME "01 - Bad Piggies Theme.mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 123.36
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {05255439-EDB3-4626-8A8B-43588090D764}
-      <SOURCE MP3
-        FILE "C:\Users\tkadmin\Downloads\01 - Bad Piggies Theme.mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 306.71353974241816
-      SNAPOFFS 0
-      LENGTH 2
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1.1 0.01 0.43311788118444 1 1 0 0
-      FADEOUT 1.1 0.01 0.42707948481717 1 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {9D4F99B2-50DD-4C47-961B-8F644418F0C0}
-      IID 8
-      NAME "01 - Bad Piggies Theme.mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 123.36
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {5BFE76A0-1020-45B4-8EC0-0E1B3D366A52}
-      <SOURCE MP3
-        FILE "C:\Users\tkadmin\Downloads\01 - Bad Piggies Theme.mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 308.28646025760099
-      SNAPOFFS 0
-      LENGTH 2
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1.1 0.01 0.42707948481717 1 1 0 0
-      FADEOUT 1.1 0.01 0.43311788118444 1 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {2D3D30B2-CCBC-4D1A-AB66-84904DC6271C}
-      IID 8
-      NAME "01 - Bad Piggies Theme.mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 123.36
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {860615CB-FD20-41D3-B61C-18941781DBE7}
-      <SOURCE MP3
-        FILE "C:\Users\tkadmin\Downloads\01 - Bad Piggies Theme.mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 309.85334237641655
-      SNAPOFFS 0
-      LENGTH 2
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1.1 0.01 0.43311788118444 1 1 0 0
-      FADEOUT 1.1 0.01 0.42022449523211 1 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {EDE1FEA9-1336-472B-8C65-EE74A4F0C227}
-      IID 8
-      NAME "01 - Bad Piggies Theme.mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 123.36
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {90F693E7-A5F8-4DFB-809C-656D26ED6B07}
-      <SOURCE MP3
-        FILE "C:\Users\tkadmin\Downloads\01 - Bad Piggies Theme.mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 311.43311788118444
-      SNAPOFFS 0
-      LENGTH 2
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1.1 0.01 0.42022449523211 1 1 0 0
-      FADEOUT 1.1 0.01 0.43311788118444 1 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {70C0F916-ECC7-4ADD-A03F-28B0A80DBBEA}
-      IID 8
-      NAME "01 - Bad Piggies Theme.mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 123.36
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {4FA3AEBF-DC93-4C25-B7D3-13ACD428F7D1}
-      <SOURCE MP3
-        FILE "C:\Users\tkadmin\Downloads\01 - Bad Piggies Theme.mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 313
-      SNAPOFFS 0
-      LENGTH 2
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1.1 0.01 0.43311788118444 1 1 0 0
-      FADEOUT 1.1 0.01 0.5 1 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {98BFEDFD-19A0-4A20-857A-F46F654C51FA}
-      IID 8
-      NAME "01 - Bad Piggies Theme.mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 123.36
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {7D1C31EC-7DA4-4ED5-AFFB-99644B81A894}
-      <SOURCE MP3
-        FILE "C:\Users\tkadmin\Downloads\01 - Bad Piggies Theme.mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 314.5
-      SNAPOFFS 0
-      LENGTH 2
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1.1 0.01 0.5 1 1 0 0
-      FADEOUT 1.1 0.01 0.43311788118444 1 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {E9931685-3BCD-4D9A-AD3F-42D303F376B1}
-      IID 8
-      NAME "01 - Bad Piggies Theme.mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 123.36
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {5146489A-C091-4F07-BAD4-A19BD1E36545}
-      <SOURCE MP3
-        FILE "C:\Users\tkadmin\Downloads\01 - Bad Piggies Theme.mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 316.06688211881556
-      SNAPOFFS 0
-      LENGTH 2
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1.1 0.01 0.43311788118444 1 1 0 0
-      FADEOUT 1.1 0.01 0.42022449523211 1 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {E9260472-7DA1-4801-B88D-066962A4F159}
-      IID 8
-      NAME "01 - Bad Piggies Theme.mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 123.36
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {4AEF63DD-5EEE-4F68-9592-D87A5B5D97FF}
-      <SOURCE MP3
-        FILE "C:\Users\tkadmin\Downloads\01 - Bad Piggies Theme.mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 317.64665762358345
-      SNAPOFFS 0
-      LENGTH 2
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1.1 0.01 0.42022449523211 1 1 0 0
-      FADEOUT 1.1 0.01 0.43311788118444 1 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {6247D134-B2D8-479E-8CF1-5AF9EB0ED5C9}
-      IID 8
-      NAME "01 - Bad Piggies Theme.mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 123.36
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {EF621674-C86D-4B83-BF62-B9F67D54DBB5}
-      <SOURCE MP3
-        FILE "C:\Users\tkadmin\Downloads\01 - Bad Piggies Theme.mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 319.21353974239901
-      SNAPOFFS 0
-      LENGTH 2
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1.1 0.01 0.43311788118444 1 1 0 0
-      FADEOUT 1.1 0.01 0.42707948479801 1 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {D665EBA6-4AD3-4BF5-A4A8-E285624BF0CF}
-      IID 8
-      NAME "01 - Bad Piggies Theme.mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 123.36
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {A7A44BC4-3AC8-4F15-8992-9E8FE46196E2}
-      <SOURCE MP3
-        FILE "C:\Users\tkadmin\Downloads\01 - Bad Piggies Theme.mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 320.78646025760099
-      SNAPOFFS 0
-      LENGTH 2
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1.1 0.01 0.42707948479801 1 1 0 0
-      FADEOUT 1.1 0.01 0.43311788118444 1 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {D1B3D9FC-E24E-4361-94EB-BE041D950690}
-      IID 8
-      NAME "01 - Bad Piggies Theme.mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 123.36
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {3B736706-D4E4-4E7E-BFEF-8134869B2A29}
-      <SOURCE MP3
-        FILE "C:\Users\tkadmin\Downloads\01 - Bad Piggies Theme.mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 322.35334237641655
-      SNAPOFFS 0
-      LENGTH 2
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1.1 0.01 0.43311788118444 1 1 0 0
-      FADEOUT 1.1 0.01 0.42022449523211 1 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {EC9EF530-DCA2-4CB7-ABED-8BC9972E0DAC}
-      IID 8
-      NAME "01 - Bad Piggies Theme.mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 123.36
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {D5AA5179-FFBA-410D-82BF-5AAC7F0E27B5}
-      <SOURCE MP3
-        FILE "C:\Users\tkadmin\Downloads\01 - Bad Piggies Theme.mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 323.93311788118444
-      SNAPOFFS 0
-      LENGTH 2
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1.1 0.01 0.42022449523211 1 1 0 0
-      FADEOUT 1.1 0.01 0.09028050831233 1 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {4EACD273-3AB6-476C-B5C8-D98FAF222A8B}
-      IID 8
-      NAME "01 - Bad Piggies Theme.mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 123.36
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {59BA7E4D-7EA4-4C77-B496-756075324EB8}
-      <SOURCE MP3
-        FILE "C:\Users\tkadmin\Downloads\01 - Bad Piggies Theme.mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 325.84283737287211
-      SNAPOFFS 0
-      LENGTH 2
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1.1 0.01 0.09028050831233 1 1 0 0
+      FADEIN 1.1 0.01 1.091373 1 1 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       SEL 0
-      IGUID {3FFDF5FA-C87A-46AD-BD23-F8CAF51184BE}
-      IID 8
-      NAME "01 - Bad Piggies Theme.mp3"
+      IGUID {37D777F1-944A-4F69-94DA-9D83DB25CC95}
+      IID 195
+      NAME "GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
       VOLPAN 1 0 1 -1
-      SOFFS 123.36
-      PLAYRATE 1 1 0 -1 0 0.0025
+      SOFFS 26.82282226322031
+      PLAYRATE 0.974 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {19C21904-B698-4A3A-9731-3D46EC1878B4}
-      <SOURCE MP3
-        FILE "C:\Users\tkadmin\Downloads\01 - Bad Piggies Theme.mp3" 1
+      GUID {53831B3F-6EB2-4D77-A59F-E021673D1BAA}
+      <SOURCE WAVE
+        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
       >
     >
     <ITEM
-      POSITION 327.84283737287211
+      POSITION 362.5
       SNAPOFFS 0
-      LENGTH 76.78950705914599
+      LENGTH 13
       LOOP 1
       ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 4 76.78950705914599 0 4 0 -1 -1
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.388775 1 1 0 0
       MUTE 0 0
       SEL 0
-      IGUID {2CFC0D7C-7F7B-416D-B0EA-EDF2B4BDA758}
-      IID 154
-      NAME "01 - Bad Piggies Theme-glued-02.wav"
+      IGUID {2FF0AF56-0135-4C54-A03A-CA7C3CEF8E79}
+      IID 195
+      NAME "GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
       VOLPAN 1 0 1 -1
-      SOFFS 0
+      SOFFS 32.6668222632203
+      PLAYRATE 0.974 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CC5DEE56-3EA1-40D7-9CCE-9FD24EC8708B}
+      <SOURCE WAVE
+        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 375.11122503899361
+      SNAPOFFS 0
+      LENGTH 73.83494331065759
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.388775 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {0BDDB5C6-6C26-4583-BD50-EEFC73C62686}
+      IID 202
+      NAME flight_of_the_bumblebee_2.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 5.5
       PLAYRATE 1 1 0 -1 0 0.0025
       CHANMODE 0
-      GUID {0FA3938D-982F-4195-A00C-BF28D1350886}
-      <SOURCE WAVE
-        FILE "Media\01 - Bad Piggies Theme-glued-02.wav"
+      GUID {B79114F5-3251-4E6C-9F0F-638939F0F476}
+      <SOURCE MP3
+        FILE "C:\Users\Piotrek\Downloads\flight_of_the_bumblebee_2.mp3" 1
       >
     >
   >
@@ -706,17 +462,16 @@
     AUTOMODE 0
     PANLAWFLAGS 3
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
+    MUTESOLO 1 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FIXEDLANES 9 0 0 0
-    SEL 1
+    SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -725,7 +480,76 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 135
+      POSITION 356
+      SNAPOFFS 0
+      LENGTH 146.63834686783542
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {2F6D4C8E-436B-4C4C-8AE8-451A571C3992}
+      IID 168
+      NAME "Funiculi Funicula.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 31.98117396549782
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {31AAC9EC-08C7-4667-B213-B5729F40BCF8}
+      <SOURCE MP3
+        FILE "Media\Funiculi Funicula.mp3" 1
+      >
+    >
+  >
+  <TRACK {A4BCFF05-3707-488C-98C1-5B3DAF60D408}
+    NAME flight_of_the_bumblebee_2
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    PANLAWFLAGS 3
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 1
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {A4BCFF05-3707-488C-98C1-5B3DAF60D408}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 299.92101686744866
+      SNAPOFFS 0
+      LENGTH 0.07898313255134
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {EEB3B9C6-B3A2-46D6-A629-B56D39D3053A}
+      IID 195
+      NAME "GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {12B9AF7A-5F57-4316-8B17-122306393979}
+      <SOURCE WAVE
+        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 357.39984057622644
       SNAPOFFS 0
       LENGTH 28.23
       LOOP 1
@@ -743,99 +567,7 @@
       CHANMODE 0
       GUID {B3188730-7893-47EF-8D1C-9E2BFE9548B9}
       <SOURCE MP3
-        FILE "C:\Users\tkadmin\Downloads\01 - Bad Piggies Theme.mp3" 1
-      >
-    >
-    <ITEM
-      POSITION 396
-      SNAPOFFS 0
-      LENGTH 178.61952083333335
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
-      MUTE 0 0
-      SEL 1
-      IGUID {8B532276-9796-482D-A3CC-6023684BCD94}
-      IID 168
-      NAME "Funiculi Funicula.mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {BB4D53F1-CEE9-4A83-97AD-7E1C3660BD52}
-      <SOURCE MP3
-        FILE "Media\Funiculi Funicula.mp3" 1
-      >
-    >
-  >
-  <TRACK {A4BCFF05-3707-488C-98C1-5B3DAF60D408}
-    NAME flight_of_the_bumblebee_2
-    PEAKCOL 16576
-    BEAT -1
-    AUTOMODE 0
-    PANLAWFLAGS 3
-    VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
-    IPHASE 0
-    PLAYOFFS 0 1
-    ISBUS 0 0
-    BUSCOMP 0 0 0 0 0
-    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FIXEDLANES 9 0 0 0
-    SEL 0
-    REC 0 0 1 0 0 0 0 0
-    VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
-    INQ 0 0 0 0.5 100 0 0 100
-    NCHAN 2
-    FX 1
-    TRACKID {A4BCFF05-3707-488C-98C1-5B3DAF60D408}
-    PERF 0
-    MIDIOUT -1
-    MAINSEND 1 0
-    <ITEM
-      POSITION 331.17356371039642
-      SNAPOFFS 0
-      LENGTH 66.32643628960358
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1.1 0.01 1.19542854652161 1 1 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {BD5B04C4-EDB9-40AC-852C-3189BCC0626D}
-      IID 136
-      NAME flight_of_the_bumblebee_2-glued.wav
-      VOLPAN 1 0 1 -1
-      SOFFS 6.52982841642478
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {E92DBECD-DC53-4E47-AF00-3561FD644DB6}
-      <SOURCE WAVE
-        FILE "Media\flight_of_the_bumblebee_2-glued.wav"
-      >
-    >
-    <ITEM
-      POSITION 396.30457145347839
-      SNAPOFFS 0
-      LENGTH 73.45041182005525
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1.1 0.01 1.19542854652161 1 1 0 0
-      FADEOUT 4 0 0 4 0 -1 -1
-      MUTE 0 0
-      SEL 0
-      IGUID {9072EE9B-83A5-421E-9416-B670925BCA7F}
-      IID 154
-      NAME "01 - Bad Piggies Theme-glued-02.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 3.33909523909131
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {D9CCD0F9-7C3E-411F-BC6B-7BDF0CCC885B}
-      <SOURCE WAVE
-        FILE "Media\01 - Bad Piggies Theme-glued-02.wav"
+        FILE "Media\01 - Bad Piggies Theme.mp3" 1
       >
     >
   >
@@ -852,11 +584,10 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FIXEDLANES 9 0 0 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -865,13 +596,13 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 256
+      POSITION 299.33158842158497
       SNAPOFFS 0
-      LENGTH 186.17100000000033
+      LENGTH 25.16841157841503
       LOOP 1
       ALLTAKES 0
       FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       SEL 0
       IGUID {D5E25295-838A-4CD3-ABA3-11DCE2F72A11}
@@ -884,7 +615,29 @@
       GUID {2B68A89D-7F2A-4EFF-AD96-C931A719E7D8}
       <SOURCE VIDEO
         FLIP 0 1
-        FILE "C:\Users\tkadmin\Downloads\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered).webm"
+        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered).webm"
+      >
+    >
+    <ITEM
+      POSITION 375
+      SNAPOFFS 0
+      LENGTH 114.46586490847056
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 64.989508 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {80D58E22-7D1A-4C77-BD36-EB1E896499E4}
+      IID 195
+      NAME "GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 45.3288222632203
+      PLAYRATE 0.974 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {DC661052-8CD5-48AF-8613-E6DEAC1F2A9E}
+      <SOURCE WAVE
+        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
       >
     >
   >
@@ -901,11 +654,10 @@
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FIXEDLANES 9 0 0 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -913,6 +665,50 @@
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
+    <ITEM
+      POSITION 305.00367277498265
+      SNAPOFFS 0
+      LENGTH 123.41818339887442
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8DCA9098-A99E-4DFC-8ABA-6728E6BED3D8}
+      IID 179
+      NAME "01 - Bad Piggies Theme.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2A9DCDA8-ADF8-4A74-A8F6-E8537E8EB816}
+      <SOURCE MP3
+        FILE "C:\Users\Piotrek\Downloads\01 - Bad Piggies Theme.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 430.73203163793153
+      SNAPOFFS 0
+      LENGTH 34.95189057015773
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {71FAC636-DF1B-4185-9855-35DCE7C33720}
+      IID 179
+      NAME "01 - Bad Piggies Theme.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 125.72835886294888
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9BEE7A53-D5C0-49A2-8F1B-F4BCA087FDA7}
+      <SOURCE MP3
+        FILE "C:\Users\Piotrek\Downloads\01 - Bad Piggies Theme.mp3" 1
+      >
+    >
   >
   <TRACK {D50BCD6A-6F1B-4ACA-8533-B0F638CDD2DE}
     NAME "01 - Bad Piggies Theme"
@@ -921,17 +717,16 @@
     AUTOMODE 0
     PANLAWFLAGS 3
     VOLPAN 1 0 -1 -1 1
-    MUTESOLO 0 0 0
+    MUTESOLO 1 0 0
     IPHASE 0
     PLAYOFFS 0 1
     ISBUS 0 0
     BUSCOMP 0 0 0 0 0
     SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
-    FIXEDLANES 9 0 0 0
     SEL 0
     REC 0 0 1 0 0 0 0 0
     VU 2
-    TRACKHEIGHT 0 0 0 0 0 0 0
+    TRACKHEIGHT 0 0 0 0 0 0
     INQ 0 0 0 0.5 100 0 0 100
     NCHAN 2
     FX 1
@@ -939,5 +734,117 @@
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
+    <ITEM
+      POSITION 321.5
+      SNAPOFFS 0
+      LENGTH 73.45041182005536
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 4 0 0 4 0 -1 -1
+      MUTE 0 0
+      SEL 0
+      IGUID {9072EE9B-83A5-421E-9416-B670925BCA7F}
+      IID 154
+      NAME "01 - Bad Piggies Theme-glued-02.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 3.33909523909131
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {D9CCD0F9-7C3E-411F-BC6B-7BDF0CCC885B}
+      <SOURCE WAVE
+        FILE "Media\01 - Bad Piggies Theme-glued-02.wav"
+      >
+    >
+  >
+  <TRACK {F8124C64-363D-40DA-8624-40AC6C555B1D}
+    NAME ""
+    PEAKCOL 16576
+    BEAT -1
+    AUTOMODE 0
+    VOLPAN 1 0 -1 -1 1
+    MUTESOLO 1 0 0
+    IPHASE 0
+    PLAYOFFS 0 1
+    ISBUS 0 0
+    BUSCOMP 0 0 0 0 0
+    SHOWINMIX 1 0.6667 0.5 1 0.5 0 0 0
+    SEL 0
+    REC 0 0 1 0 0 0 0 0
+    VU 2
+    TRACKHEIGHT 0 0 0 0 0 0
+    INQ 0 0 0 0.5 100 0 0 100
+    NCHAN 2
+    FX 1
+    TRACKID {F8124C64-363D-40DA-8624-40AC6C555B1D}
+    PERF 0
+    MIDIOUT -1
+    MAINSEND 1 0
+    <ITEM
+      POSITION 299.5
+      SNAPOFFS 0
+      LENGTH 27.68403603040008
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.003865 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {4CCC4D7C-AFA6-452A-A900-EAD402CFFC05}
+      IID 191
+      NAME "01 - Bad Piggies Theme-glued-04.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {02C8B4D0-CA8B-4710-8D2F-F5751E8996AA}
+      <SOURCE WAVE
+        FILE "Media\01 - Bad Piggies Theme-glued-04.wav"
+      >
+    >
+    <ITEM
+      POSITION 327.18403603040008
+      SNAPOFFS 0
+      LENGTH 27.68403603040008
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.003865 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {DD828239-8912-4A6E-9B80-BF736D1963D1}
+      IID 191
+      NAME "01 - Bad Piggies Theme-glued-04.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {78F4C510-EE5B-43F0-9702-92EE13443943}
+      <SOURCE WAVE
+        FILE "Media\01 - Bad Piggies Theme-glued-04.wav"
+      >
+    >
+    <ITEM
+      POSITION 362.5
+      SNAPOFFS 0
+      LENGTH 5.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {F5F420B2-46EC-4CEA-A9DB-6D998CEEDEAB}
+      IID 202
+      NAME flight_of_the_bumblebee_2.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {EC203D9F-BBAB-4591-9741-5DF48C95F139}
+      <SOURCE MP3
+        FILE "C:\Users\Piotrek\Downloads\flight_of_the_bumblebee_2.mp3" 1
+      >
+    >
   >
 >
