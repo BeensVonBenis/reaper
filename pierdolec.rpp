@@ -1,4 +1,4 @@
-<REAPER_PROJECT 0.1 "6.81/win64" 1719773806
+<REAPER_PROJECT 0.1 "6.81/win64" 1719775525
   <NOTES 0 2
   >
   RIPPLE 0
@@ -17,8 +17,8 @@
   VIDEO_CONFIG 0 0 256
   PANMODE 3
   PANLAWFLAGS 3
-  CURSOR 592.5
-  ZOOM 55.40221093696295 32315 0
+  CURSOR 931.5
+  ZOOM 39.34372559376521 35683 0
   VZOOMEX 5.58928585 0
   USE_REC_CFG 0
   RECMODE 1
@@ -32,8 +32,8 @@
   <APPLYFX_CFG
   >
   RENDER_FILE ""
-  RENDER_PATTERN test
-  RENDER_FMT 0 2 0
+  RENDER_PATTERN test2
+  RENDER_FMT 0 2 44100
   RENDER_1X 0
   RENDER_RANGE 1 0 0 18 1000
   RENDER_RESAMPLE 3 0 1
@@ -47,7 +47,7 @@
   TAKELANE 1
   SAMPLERATE 44100 0 0
   <RENDER_CFG
-    ZXZhdxgAAQ==
+    bDNwbSAAAAAAAAAAAgAAAP////8EAAAAIAAAAAAAAAA=
   >
   LOCK 1
   <METRONOME 6 2
@@ -61,8 +61,8 @@
   GLOBAL_AUTO -1
   TEMPO 120 32 32
   PLAYRATE 1 0 0.25 4
-  SELECTION 603 608.35645887763314
-  SELECTION2 603 608.35645887763314
+  SELECTION 903 903
+  SELECTION2 903 903
   MASTERAUTOMODE 0
   MASTERTRACKHEIGHT 0 0
   MASTERPEAKCOL 16576
@@ -703,7 +703,7 @@
       LOOP 1
       ALLTAKES 0
       FADEIN 1.1 0.01 0.111929 1 1 0 0
-      FADEOUT 1.1 0.01 0.191073 1 1 0 0
+      FADEOUT 1.1 0.01 0.028625 1 1 0 0
       MUTE 0 0
       SEL 0
       IGUID {21A1681B-868D-439B-A564-BC8E4A18B682}
@@ -724,8 +724,8 @@
       LENGTH 5.35645887763189
       LOOP 1
       ALLTAKES 0
-      FADEIN 1.1 0.01 0.191073 1 1 0 0
-      FADEOUT 1 0 0 1 0 0 0
+      FADEIN 1.1 0.01 0.162449 1 1 0 0
+      FADEOUT 1.1 0 5.19401 1 1 0 0
       MUTE 0 0
       SEL 0
       IGUID {B9FC5CCC-46DC-414C-A682-1DB5704E3D56}
@@ -738,6 +738,226 @@
       GUID {3CDEF3DF-795D-49FF-AFBA-D84749C42210}
       <SOURCE WAVE
         FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 603.09867485284224
+      SNAPOFFS 0
+      LENGTH 42.40132514715776
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.028625 1 1 0 0
+      FADEOUT 1.1 0.01 0.034945 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3797829F-A02C-42BC-8E3C-2631A024E174}
+      IID 268
+      NAME "ukasz_ukasz (1).mp4"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {A0598046-8287-4862-B3E6-4215C56EA81F}
+      <SOURCE VIDEO
+        FILE "C:\Users\Piotrek\Downloads\ukasz_ukasz (1).mp4"
+      >
+    >
+    <ITEM
+      POSITION 645.46505489109904
+      SNAPOFFS 0
+      LENGTH 8.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.034945 1 1 0 0
+      FADEOUT 1.1 0.01 0.465055 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A31C64B2-7E80-47CA-81AD-F0BC141CEF63}
+      IID 268
+      NAME "ukasz_ukasz (1).mp4"
+      VOLPAN 1 0 1 -1
+      SOFFS 42.40132514715776
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8C4E8BA8-5E63-457F-9C49-AD732BE96722}
+      <SOURCE VIDEO
+        FILE "C:\Users\Piotrek\Downloads\ukasz_ukasz (1).mp4"
+      >
+    >
+    <ITEM
+      POSITION 653.5
+      SNAPOFFS 0
+      LENGTH 8.95585352142916
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.465055 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {579ACE1D-5A7E-42A9-BF67-27A9C369A61F}
+      IID 195
+      NAME "GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 106.04124532730847
+      PLAYRATE 0.974 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {043F84F4-4462-41F6-AE10-72EE84CB126E}
+      <SOURCE WAVE
+        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 662.45585352147464
+      SNAPOFFS 0
+      LENGTH 12
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.752497 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {3DCD7D87-ABE8-4C7C-B113-C2207319FE33}
+      IID 195
+      NAME "GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 114.76424665718042
+      PLAYRATE 0.974 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {0D47262F-6690-45BA-A410-15014C811059}
+      <SOURCE WAVE
+        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 673.70335676091634
+      SNAPOFFS 0
+      LENGTH 37.29664323908366
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.752497 1 1 0 0
+      FADEOUT 3 0.01 7.5 3 1 1 1
+      MUTE 0 0
+      SEL 0
+      IGUID {C8665B58-3FBB-410D-8CA6-64A5B9B35956}
+      IID 179
+      NAME "01 - Bad Piggies Theme.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 31.78832362524315
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3EE9D8B5-E3C7-4EC8-BD34-8D5157E266CC}
+      <SOURCE MP3
+        FILE "C:\Users\Piotrek\Downloads\01 - Bad Piggies Theme.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 703.5
+      SNAPOFFS 0
+      LENGTH 161.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 3 0.01 7.5 3 1 -1 -1
+      FADEOUT 1.1 0.01 14 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BF5FB9AC-03F5-404B-A740-CC6BF3C5BFC8}
+      IID 276
+      NAME for-elise-background-music-for-video-dance-electro-house-version-179316.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9E7BBC6A-26CB-4943-AA28-690A2FA20061}
+      <SOURCE MP3
+        FILE "C:\Users\Piotrek\Downloads\for-elise-background-music-for-video-dance-electro-house-version-179316.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 851
+      SNAPOFFS 0
+      LENGTH 24.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 14 1 1 0 0
+      FADEOUT 1.1 0.01 0.671816 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {28DB9739-C9FC-479A-BEB4-0586D3D3B266}
+      IID 278
+      NAME "Joost Klein - Europapa  Netherlands   Official Music Video  Eurovision 2024.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 53
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {47214F57-83F9-4565-BAB4-D593EBD90FDC}
+      <SOURCE MP3
+        FILE "C:\Users\Piotrek\Downloads\Joost Klein - Europapa  Netherlands   Official Music Video  Eurovision 2024.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 874.82818366988533
+      SNAPOFFS 0
+      LENGTH 5.17181633011467
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.671816 1 1 0 0
+      FADEOUT 1.1 0.01 0.5 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {728A114E-1B00-40A3-A484-068A133D0FF1}
+      IID 195
+      NAME "GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 115.86420684136353
+      PLAYRATE 0.974 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {3A1BF7E3-DD57-48DE-B9A9-974591517C54}
+      <SOURCE WAVE
+        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 879.5
+      SNAPOFFS 0
+      LENGTH 23.72263050620802
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.5 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.486566 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8601F3F7-ABD6-4548-B834-F6131FF6F44C}
+      IID 299
+      NAME "Joost Klein - Europapa  Netherlands   Official Music Video  Eurovision 2024-glued.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8D7D1E13-37EE-4DB3-BC7B-004A45667E2F}
+      <SOURCE WAVE
+        FILE "Media\Joost Klein - Europapa  Netherlands   Official Music Video  Eurovision 2024-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 902.73606436570833
+      SNAPOFFS 0
+      LENGTH 164.29331065759618
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.486566 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {B81B0156-2A8E-46F9-8A4B-AC99D60876CE}
+      IID 296
+      NAME 235820-766c823d-2ada-4e45-b810-806e3ca996f3.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 38
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {48F3EFF7-2CCE-4CFA-B0E7-F53B1B0458C0}
+      <SOURCE MP3
+        FILE "C:\Users\Piotrek\Downloads\235820-766c823d-2ada-4e45-b810-806e3ca996f3.mp3" 1
       >
     >
   >
@@ -813,28 +1033,6 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 483
-      SNAPOFFS 0
-      LENGTH 15.5
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {717F805E-C7A3-4445-B301-A6BB7134DC4A}
-      IID 195
-      NAME "GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
-      VOLPAN 1 0 1 -1
-      SOFFS 77.95782226322029
-      PLAYRATE 0.974 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {8BD31A2E-F8F8-4A39-A2F4-7532FC45B66F}
-      <SOURCE WAVE
-        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
-      >
-    >
-    <ITEM
       POSITION 526.5
       SNAPOFFS 0
       LENGTH 185.12459503443301
@@ -854,6 +1052,28 @@
       GUID {34B7349E-9867-4273-B147-57E688BE9666}
       <SOURCE MP3
         FILE "C:\Users\Piotrek\Downloads\Luis-Fonsi-Ft.-Daddy-Yankee-Despacito.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 865
+      SNAPOFFS 0
+      LENGTH 53
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {A8BD82B9-6D77-4E0F-8852-1C4F05B82D5F}
+      IID 278
+      NAME "Joost Klein - Europapa  Netherlands   Official Music Video  Eurovision 2024.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {CB73BCF4-02CF-4919-A552-28ABAAB8098E}
+      <SOURCE MP3
+        FILE "C:\Users\Piotrek\Downloads\Joost Klein - Europapa  Netherlands   Official Music Video  Eurovision 2024.mp3" 1
       >
     >
   >
@@ -881,6 +1101,139 @@
     PERF 0
     MIDIOUT -1
     MAINSEND 1 0
+    <ITEM
+      POSITION 652.5
+      SNAPOFFS 0
+      LENGTH 25.16841157841509
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 3.168412 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {D5E25295-838A-4CD3-ABA3-11DCE2F72A11}
+      IID 12
+      NAME "GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered).webm"
+      VOLPAN 1 0 1 -1
+      SOFFS 32.77
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2B68A89D-7F2A-4EFF-AD96-C931A719E7D8}
+      <SOURCE VIDEO
+        FLIP 0 1
+        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered).webm"
+      >
+    >
+    <ITEM
+      POSITION 674.5
+      SNAPOFFS 0
+      LENGTH 32.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 3.168412 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8DCA9098-A99E-4DFC-8ABA-6728E6BED3D8}
+      IID 179
+      NAME "01 - Bad Piggies Theme.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {2A9DCDA8-ADF8-4A74-A8F6-E8537E8EB816}
+      <SOURCE MP3
+        FILE "C:\Users\Piotrek\Downloads\01 - Bad Piggies Theme.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 711
+      SNAPOFFS 0
+      LENGTH 54.33321653454743
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {087BC357-C809-43E0-BBA3-CF6B4AB40060}
+      IID 179
+      NAME "01 - Bad Piggies Theme.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 69.08496686432682
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {9FEC8E70-ED62-4E21-8524-C26A0659263D}
+      <SOURCE MP3
+        FILE "C:\Users\Piotrek\Downloads\01 - Bad Piggies Theme.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 865
+      SNAPOFFS 0
+      LENGTH 10.43902494331064
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 3 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {386E9189-DBED-4C58-B752-1BA338664D7D}
+      IID 276
+      NAME for-elise-background-music-for-video-dance-electro-house-version-179316.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 161.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {5ED5E631-C499-48F0-98AB-8E77CCCB02CF}
+      <SOURCE MP3
+        FILE "C:\Users\Piotrek\Downloads\for-elise-background-music-for-video-dance-electro-house-version-179316.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 905
+      SNAPOFFS 0
+      LENGTH 0.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {35DD1D08-CC46-4D9B-9FD8-52BED8F8A903}
+      IID 296
+      NAME 235820-766c823d-2ada-4e45-b810-806e3ca996f3.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 37.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {4902D5A7-72FB-42F1-8BCD-1DF308C34148}
+      <SOURCE MP3
+        FILE "C:\Users\Piotrek\Downloads\235820-766c823d-2ada-4e45-b810-806e3ca996f3.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 908.5
+      SNAPOFFS 0
+      LENGTH 37.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {ACB9A7FA-276F-4D47-A69C-704510A395EE}
+      IID 296
+      NAME 235820-766c823d-2ada-4e45-b810-806e3ca996f3.mp3
+      VOLPAN 1 0 1 -1
+      SOFFS 0
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {969521EB-1B96-45EC-9943-13F7926BC5DB}
+      <SOURCE MP3
+        FILE "C:\Users\Piotrek\Downloads\235820-766c823d-2ada-4e45-b810-806e3ca996f3.mp3" 1
+      >
+    >
   >
   <TRACK {406D5108-50CF-4EB3-878B-8B2BAFAB076D}
     NAME ""
@@ -907,28 +1260,6 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 305.00367277498265
-      SNAPOFFS 0
-      LENGTH 123.41818339887442
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {8DCA9098-A99E-4DFC-8ABA-6728E6BED3D8}
-      IID 179
-      NAME "01 - Bad Piggies Theme.mp3"
-      VOLPAN 1 0 1 -1
-      SOFFS 0
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {2A9DCDA8-ADF8-4A74-A8F6-E8537E8EB816}
-      <SOURCE MP3
-        FILE "C:\Users\Piotrek\Downloads\01 - Bad Piggies Theme.mp3" 1
-      >
-    >
-    <ITEM
       POSITION 430.73203163793153
       SNAPOFFS 0
       LENGTH 34.95189057015773
@@ -948,6 +1279,116 @@
       GUID {9BEE7A53-D5C0-49A2-8F1B-F4BCA087FDA7}
       <SOURCE MP3
         FILE "C:\Users\Piotrek\Downloads\01 - Bad Piggies Theme.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 653.5
+      SNAPOFFS 0
+      LENGTH 15.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {717F805E-C7A3-4445-B301-A6BB7134DC4A}
+      IID 195
+      NAME "GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 77.95782226322029
+      PLAYRATE 0.974 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8BD31A2E-F8F8-4A39-A2F4-7532FC45B66F}
+      <SOURCE WAVE
+        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 880.5
+      SNAPOFFS 0
+      LENGTH 5.69886109885533
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1.1 0.01 0.198861 1 1 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {E2835608-BED3-4501-A1C9-22C128069D3D}
+      IID 195
+      NAME "GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 120.90155594689521
+      PLAYRATE 0.974 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {933E145E-BC04-4EC4-9DE0-FA8907F8090E}
+      <SOURCE WAVE
+        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 886
+      SNAPOFFS 0
+      LENGTH 8.95585352142905
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1.1 0.01 0.198861 1 1 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {8842CDB0-52AB-4808-95AA-F9F50493CAC7}
+      IID 195
+      NAME "GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 106.04124532730847
+      PLAYRATE 0.974 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {BAD05A1F-C1FA-4B7F-AB81-45B02E8AC060}
+      <SOURCE WAVE
+        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      >
+    >
+    <ITEM
+      POSITION 903
+      SNAPOFFS 0
+      LENGTH 125.23496598639463
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {BADFFB37-DFC2-49BD-912E-8255C3B06717}
+      IID 278
+      NAME "Joost Klein - Europapa  Netherlands   Official Music Video  Eurovision 2024.mp3"
+      VOLPAN 1 0 1 -1
+      SOFFS 76.5
+      PLAYRATE 1 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {8E13F999-E67E-49AA-8430-6BE706BC5952}
+      <SOURCE MP3
+        FILE "C:\Users\Piotrek\Downloads\Joost Klein - Europapa  Netherlands   Official Music Video  Eurovision 2024.mp3" 1
+      >
+    >
+    <ITEM
+      POSITION 919.90469139860943
+      SNAPOFFS 0
+      LENGTH 3.5
+      LOOP 1
+      ALLTAKES 0
+      FADEIN 1 0.01 0 1 0 0 0
+      FADEOUT 1 0.01 0 1 0 0 0
+      MUTE 0 0
+      SEL 0
+      IGUID {7B9D7327-82EB-4BD3-BD42-388DD9561ED5}
+      IID 195
+      NAME "GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
+      VOLPAN 1 0 1 -1
+      SOFFS 126.45224665718042
+      PLAYRATE 0.974 1 0 -1 0 0.0025
+      CHANMODE 0
+      GUID {1C37B7BE-6CF6-4BC6-9643-52F6BA1B92A3}
+      <SOURCE WAVE
+        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered)-glued.wav"
       >
     >
   >
@@ -976,29 +1417,6 @@
     MIDIOUT -1
     MAINSEND 1 0
     <ITEM
-      POSITION 296
-      SNAPOFFS 0
-      LENGTH 25.16841157841503
-      LOOP 1
-      ALLTAKES 0
-      FADEIN 1 0.01 0 1 0 0 0
-      FADEOUT 1 0.01 0 1 0 0 0
-      MUTE 0 0
-      SEL 0
-      IGUID {D5E25295-838A-4CD3-ABA3-11DCE2F72A11}
-      IID 12
-      NAME "GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered).webm"
-      VOLPAN 1 0 1 -1
-      SOFFS 32.77
-      PLAYRATE 1 1 0 -1 0 0.0025
-      CHANMODE 0
-      GUID {2B68A89D-7F2A-4EFF-AD96-C931A719E7D8}
-      <SOURCE VIDEO
-        FLIP 0 1
-        FILE "Media\GOLEC UORKIESTRA - ŚCIERNISCO   (Official Video ⧸ Remastered).webm"
-      >
-    >
-    <ITEM
       POSITION 321.5
       SNAPOFFS 0
       LENGTH 73.45041182005536
@@ -1021,12 +1439,12 @@
       >
     >
     <ITEM
-      POSITION 567.5
+      POSITION 578.5
       SNAPOFFS 0
       LENGTH 69.48777442413746
       LOOP 1
       ALLTAKES 0
-      FADEIN 1 0.01 0 5.1 0 0 0
+      FADEIN 5.1 0.01 0 5.1 0 0 0
       FADEOUT 1 0.01 0 1 0 0 0
       MUTE 0 0
       SEL 0
